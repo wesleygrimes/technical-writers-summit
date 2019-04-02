@@ -12,6 +12,7 @@ This will be a round-table group discussion, wherein we cover practical topics s
 ### Topics List
 
 (Will be updated as topics flow in)
+* Technical Writing for Non-Native English Speakers - [Amadou Sall](https://twitter.com/ahasall)
 
 ### Website
 
