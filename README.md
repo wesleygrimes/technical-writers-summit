@@ -7,13 +7,13 @@
 
 ## Get Involved
 
-I need your help in one of the following ways:
+To get involved create an issue with one of the following tags and add any additional information:
 
-* Suggesting Topics
-* Note Taking
-* Website Setup
-* Video Recording of Session
-* Live Streaming of Session
+* Suggesting Topics - `suggested-topic`
+* Note Taking - `note-taking`
+* Website Setup - `website-setup`
+* Video Recording of Session - `record-session`
+* Live Streaming of Session - `livestream-session`
 
 ## What
 
