@@ -1,6 +1,6 @@
 # 2019 Technical Writers Summit
 
-* **WHEN**: Thursday, May 2nd, 2019 from 7pm-8pm
+* **WHEN**: Thursday, May 2nd, 2019 from 7pm-9pm
 * **WHERE**: TBD (Somewhere at NG-CONF Location, Salt Lake City, UT)
 * **TOPICS**: State of Technical Writing, Tips & Tricks, Pain Points, Best Practices, Networking
 * **AUDIENCE**: Anyone interested in blogging technical articles
