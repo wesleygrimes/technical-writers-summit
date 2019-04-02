@@ -44,3 +44,6 @@ Also, we as a writing community need to dive in and own our space, we need to ac
 
 ### Please Note
 This is not an official NG-Conf event, but will take place with attendees after the day's sessions. Create an issue on GitHub or contact me on Twitter (https://twitter.com/wesgrimes) if you are interested in helping organize this.
+
+### Original Twitter Thread
+https://twitter.com/wesgrimes/status/1113110682969497602
