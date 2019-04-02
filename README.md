@@ -7,7 +7,7 @@
 
 ## About The Summit
 
-This will be a round-table group discussion, where in we cover practical topics such as writing workflows, tools we use, article topic choices, distribution platforms, learning to handle online critiques in a constructive way, best practices for code examples, quality over quantity, and overcoming challenges for under-represented groups.
+This will be a round-table group discussion, wherein we cover practical topics such as writing workflows, tools we use, article topic choices, distribution platforms, learning to handle online critiques in a constructive way, best practices for code examples, quality over quantity, and overcoming challenges for under-represented groups.
 
 ### Topics List
 
@@ -15,7 +15,7 @@ This will be a round-table group discussion, where in we cover practical topics 
 
 ### Website
 
-(Will be updated as site is built)
+(Will be updated as the site is built out)
 
 ### Resources
 
@@ -33,7 +33,7 @@ To get involved create an issue with one of the following tags and add any addit
 * Resource Suggestion - `resource-suggestion`
 * Summit Notes - `notes`
 * Create Summit Website - `website`
-* Record/Livestream Summit - `record-livestream`
+* Record/Live Stream Summit - `record-livestream`
 
 ### The Inspiration Behind The Event
 For most developers, the thought of writing an article is terrifying, I want new or aspiring writers to get past that fear and dive in. Writing is a great way to master a topic and share the love with others of what you have learned.
