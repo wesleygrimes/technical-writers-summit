@@ -16,10 +16,6 @@ This will be a round-table group discussion, wherein we cover practical topics s
 * Tehnical Writing for Non-Native English Speakers Amadou Sall (@ahasall)
 * Where To Publish? - Brenden Niedermeyer (@bniedermeyer)
 
-### Website
-
-(Will be updated as the site is built out)
-
 ### Resources
 
 (Will be updated as resources are identified)
