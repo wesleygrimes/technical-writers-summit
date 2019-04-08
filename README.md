@@ -11,7 +11,10 @@ This will be a round-table group discussion, wherein we cover practical topics s
 
 ### Topics List
 
-(Will be updated as topics flow in)
+* The JAMStack on Netlify - Preston Lamb (@pjlamb12)
+* Technical Writing Workflows - TBD
+* Tehnical Writing for Non-Native English Speakers Amadou Sall (@ahasall)
+* Where To Publish? - Brenden Niedermeyer (@bniedermeyer)
 
 ### Website
 
