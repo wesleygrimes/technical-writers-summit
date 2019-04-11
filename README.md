@@ -15,6 +15,7 @@ This will be a round-table group discussion, wherein we cover practical topics s
 * Technical Writing Workflows - TBD
 * Tehnical Writing for Non-Native English Speakers Amadou Sall (@ahasall)
 * Where To Publish? - Brenden Niedermeyer (@bniedermeyer)
+* Using Our Skills For Good ... Contributing to OSS Docs - Wes Grimes (@wesgrimes)
 
 ### Resources
 
