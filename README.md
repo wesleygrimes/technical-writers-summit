@@ -18,13 +18,15 @@ Please take a moment and register for the event. The cost is free, but we would 
 
 This will be a round-table group discussion, wherein we cover practical topics such as writing workflows, tools we use, article topic choices, distribution platforms, learning to handle online critiques in a constructive way, best practices for code examples, quality over quantity, and overcoming challenges for under-represented groups.
 
-### Topics List
+### Event Schedule (Tentative)
 
-* Technical Writing Workflows - Wes Grimes (@wesgrimes)
-* The JAMStack on Netlify - Preston Lamb (@pjlamb12)
-* Technical Writing for Non-Native English Speakers - Amadou Sall (@ahasall)
-* Where To Publish? - Brenden Niedermeyer (@bniedermeyer)
-* Using Our Skills For Good ... Contributing to OSS Docs - TBD
+* 7:00pm-7:05pm: Opening Statement - Wes Grimes (@wesgrimes)
+* 7:10pm-7:20pm: Where To Publish? - Brenden Niedermeyer (@bniedermeyer)
+* 7:25pm-7:35pm: The JAMStack on Netlify - Preston Lamb (@pjlamb12)
+* 7:40pm-7:50pm: Technical Writing for Non-Native English Speakers - Amadou Sall (@ahasall)
+* 7:55pm-8:05pm: The 10 Most Common Problems I See When Editing Guest Posts - Chris Sevilleja (@chrisoncode)
+* 8:10pm-8:30pm: Q&A Time
+* 8:30pm-9:00pm: Networking, a time to connect with other writers
 
 ## Get Involved
 
