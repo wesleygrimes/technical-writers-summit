@@ -18,7 +18,7 @@ Please take a moment and register for the event. The cost is free, but we would 
 
 This will be a round-table group discussion, wherein we cover practical topics such as writing workflows, tools we use, article topic choices, distribution platforms, learning to handle online critiques in a constructive way, best practices for code examples, quality over quantity, and overcoming challenges for under-represented groups.
 
-### Event Schedule (Tentative)
+### Event Schedule
 
 * 7:00pm-7:10pm: Technical Writing Workflows - Wes Grimes (@wesgrimes)
 * 7:15pm-7:25pm: Where To Publish? - Brenden Niedermeyer (@bniedermeyer)
