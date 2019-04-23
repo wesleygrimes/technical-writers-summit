@@ -24,9 +24,10 @@ This will be a round-table group discussion, wherein we cover practical topics s
 * 7:15pm-7:25pm: Where To Publish? - Brenden Niedermeyer (@bniedermeyer)
 * 7:30pm-7:40pm: The JAMStack on Netlify - Preston Lamb (@pjlamb12)
 * 7:45pm-7:55pm: Technical Writing for Non-Native English Speakers - Amadou Sall (@ahasall)
-* 8:00pm-8:10pm: The 10 Most Common Problems I See When Editing Guest Posts - Chris Sevilleja (@chrisoncode)
-* 8:10pm-8:30pm: Q&A Time
-* 8:30pm-9:00pm: Networking, a time to connect with other writers
+* 8:00pm-8:10pm: Grammar, syntax, code highlighting, acronym standardization - Sean G. Wright (@seangwright)
+* 8:15pm-8:25pm: The 10 Most Common Problems I See When Editing Guest Posts - Chris Sevilleja (@chrisoncode)
+* 8:30pm-8:45pm: Q&A Time
+* 8:45pm-9:00pm: Networking, a time to connect with other writers
 
 ## Get Involved
 
