@@ -20,17 +20,17 @@ This will be a round-table group discussion, wherein we cover practical topics s
 
 ## Event Schedule
 
-**7:00 - 7:10** - Wes Grimes - Technical Writing Workflows
+**7:00 - 7:10** - [Wes Grimes](https://twitter.com/wesgrimes) - Technical Writing Workflows
 
-**7:10 - 7:20** - Brenden Niedermeyer - Where To Publish?
+**7:10 - 7:20** - [Brenden Niedermeyer](https://twitter.com/TheNieds) - Where To Publish?
 
-**7:20 - 7:30** - Preston Lamb - The JAMStack on Netlify
+**7:20 - 7:30** - [Preston Lamb](https://twitter.com/plambweb) - The JAMStack on Netlify
 
-**7:30 - 7:40** - Amadou Sall - Technical Writing for Non-Native English Speakers
+**7:30 - 7:40** - [Amadou Sall](https://twitter.com/ahasall) - Technical Writing for Non-Native English Speakers
 
-**7:40 - 7:50** - Sean G. Wright - Writing Standards including grammar, syntax, code highlighting
+**7:40 - 7:50** - [Sean G. Wright](https://twitter.com/seangwright) - Writing Standards including grammar, syntax, code highlighting
 
-**7:50 - 8:00** - Chris Sevilleja - The 10 Most Common Problems I See When Editing Guest Posts
+**7:50 - 8:00** - [Chris Sevilleja](https://twitter.com/chrisoncode) - The 10 Most Common Problems I See When Editing Guest Posts
 
 **8:00 - 8:15** - Q&A Time
 
