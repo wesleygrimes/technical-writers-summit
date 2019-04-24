@@ -54,7 +54,7 @@ I would also like to explore ways to translate our technical writing ability int
 Also, we as a writing community need to dive in and own our space, we need to actively reach out to those new to the Angular community and provide them with great resources to bust through walls they are hitting.
 
 ### Please Note
-Create an issue on GitHub or contact me on Twitter (https://twitter.com/wesgrimes) if you have any questions.
+Create an issue on GitHub or contact me on [Twitter](https://twitter.com/wesgrimes) if you have any questions.
 
 ### Original Twitter Thread
-https://twitter.com/wesgrimes/status/1113110682969497602
+[Link Here](https://twitter.com/wesgrimes/status/1113110682969497602)
