@@ -11,12 +11,8 @@
 
 Please take a moment and register for the event. The cost is free, but we would like to get a count of attendees. 
 
-* Register Here: https://forms.gle/MNA9zN9Ds73XW2vGA
-* NG Conf Details: https://www.ng-conf.org/2019/sessions/technical-writers-summit/
-
-## About The Summit
-
-This will be a round-table group discussion, wherein we cover practical topics such as writing workflows, tools we use, article topic choices, distribution platforms, learning to handle online critiques in a constructive way, best practices for code examples, quality over quantity, and overcoming challenges for under-represented groups.
+* Register Here: [Google Form Signup](https://forms.gle/MNA9zN9Ds73XW2vGA)
+* NG Conf Details: [NG Conf Session Details](https://www.ng-conf.org/2019/sessions/technical-writers-summit/)
 
 ## Event Schedule
 
@@ -35,6 +31,10 @@ This will be a round-table group discussion, wherein we cover practical topics s
 **8:00 - 8:15** - Q&A Time
 
 **8:15 - 9:00** - Networking, a time to connect with other writers
+
+## About The Summit
+
+This will be a round-table group discussion, wherein we cover practical topics such as writing workflows, tools we use, article topic choices, distribution platforms, learning to handle online critiques in a constructive way, best practices for code examples, quality over quantity, and overcoming challenges for under-represented groups.
 
 ## Get Involved
 
