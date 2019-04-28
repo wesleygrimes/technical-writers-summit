@@ -1,5 +1,3 @@
-<a href="https://ultimatecourses.com/topic/angular/ref/wes.grimes/" title="Ultimate Courses"><img src="https://ultimatecourses.com/assets/img/banners/ultimate-angular-github.svg" alt="Ultimate Courses" /></a>
-
 # [2019 Technical Writers Summit](https://www.ng-conf.org/2019/sessions/technical-writers-summit/)
 
 * **WHEN**: Thursday, May 2nd, 2019 from 7pm-9pm
