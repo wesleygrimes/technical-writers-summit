@@ -5,7 +5,7 @@
 * **TOPICS**: State of Technical Writing, Tips & Tricks, Pain Points, Best Practices, Networking
 * **AUDIENCE**: Anyone interested in blogging technical articles
 
-## Registration Open
+## Registration Closed
 
 Please take a moment and register for the event. The cost is free, but we would like to get a count of attendees. 
 
