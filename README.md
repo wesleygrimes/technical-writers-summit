@@ -12,7 +12,7 @@ Please take a moment and register for the event. The cost is free, but we would 
 * Register Here: [Google Form Signup](https://forms.gle/MNA9zN9Ds73XW2vGA)
 * NG Conf Details: [NG Conf Session Details](https://www.ng-conf.org/2019/sessions/technical-writers-summit/)
 
-## Event Schedule
+## Talks Summary
 
 - [Wes Grimes](https://twitter.com/wesgrimes) - Writing Tips - [Slides](https://docs.google.com/presentation/d/1gbvPZuM-zPz37vV_Zx3FM0sEQHNBowPCER0s4NK5Vh4)
 
@@ -25,10 +25,6 @@ Please take a moment and register for the event. The cost is free, but we would 
 - [Preston Lamb](https://twitter.com/plambweb) - The JAMStack on Netlify - [Slides](https://pjlc.dev/ngconf-writers)
 
 - [Chris Sevilleja](https://twitter.com/chrisoncode) - 10 Common Edits in Technical Writing - [Slides](https://slides.com/chrisoncode/10-common-technical-writing-edits)
-
-**8:00 - 8:15** - Q&A Time
-
-**8:15 - 9:00** - Networking, a time to connect with other writers
 
 ## About The Summit
 
