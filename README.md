@@ -34,6 +34,15 @@ Please take a moment and register for the event. The cost is free, but we would 
 
 This will be a round-table group discussion, wherein we cover practical topics such as writing workflows, tools we use, article topic choices, distribution platforms, learning to handle online critiques in a constructive way, best practices for code examples, quality over quantity, and overcoming challenges for under-represented groups.
 
+## Slides
+
+- Writing Tips - [Slides](https://docs.google.com/presentation/d/1gbvPZuM-zPz37vV_Zx3FM0sEQHNBowPCER0s4NK5Vh4)
+- Where to Publish? - [PDF](https://github.com/bniedermeyer/publishing-tech-writing-ng-conf/blob/master/publishing-tech-writing.pdf)
+- Technical Writing for Non-Native English Speakers - [Slides](http://bit.ly/2H4xfPv)
+- Writing Style and Formatting - [Slides](https://docs.google.com/presentation/d/1aMxhIi_ep3-2PqwEy5RlqkT2r3iiaZx7EkA_qon5QKg)
+- The JAMStack on Netlify - [Slides](https://pjlc.dev/ngconf-writers)
+- 10 Common Edits in Technical Writing - [Slides](https://slides.com/chrisoncode/10-common-technical-writing-edits)
+
 ## Get Involved
 
 To get involved create an issue with one of the following tags and add any additional information:
