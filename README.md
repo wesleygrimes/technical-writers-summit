@@ -14,17 +14,17 @@ Please take a moment and register for the event. The cost is free, but we would 
 
 ## Event Schedule
 
-**7:00 - 7:10** - [Wes Grimes](https://twitter.com/wesgrimes) - Writing Tips - [Slides](https://docs.google.com/presentation/d/1gbvPZuM-zPz37vV_Zx3FM0sEQHNBowPCER0s4NK5Vh4)
+- [Wes Grimes](https://twitter.com/wesgrimes) - Writing Tips - [Slides](https://docs.google.com/presentation/d/1gbvPZuM-zPz37vV_Zx3FM0sEQHNBowPCER0s4NK5Vh4)
 
-**7:10 - 7:20** - [Brenden Niedermeyer](https://twitter.com/TheNieds) - Where To Publish? - [PDF](https://github.com/bniedermeyer/publishing-tech-writing-ng-conf/blob/master/publishing-tech-writing.pdf)
+- [Brenden Niedermeyer](https://twitter.com/TheNieds) - Where To Publish? - [PDF](https://github.com/bniedermeyer/publishing-tech-writing-ng-conf/blob/master/publishing-tech-writing.pdf)
 
-**7:20 - 7:30** - [Preston Lamb](https://twitter.com/plambweb) - The JAMStack on Netlify - [Slides](https://pjlc.dev/ngconf-writers)
+- [Amadou Sall](https://twitter.com/ahasall) - Technical Writing for Non-Native English Speakers - [Slides](http://bit.ly/2H4xfPv)
 
-**7:30 - 7:40** - [Amadou Sall](https://twitter.com/ahasall) - Technical Writing for Non-Native English Speakers - [Slides](http://bit.ly/2H4xfPv)
+- [Sean G. Wright](https://twitter.com/seangwright) - Writing Style and Formatting - [Slides](https://docs.google.com/presentation/d/1aMxhIi_ep3-2PqwEy5RlqkT2r3iiaZx7EkA_qon5QKg)
 
-**7:40 - 7:50** - [Sean G. Wright](https://twitter.com/seangwright) - Writing Style and Formatting - [Slides](https://docs.google.com/presentation/d/1aMxhIi_ep3-2PqwEy5RlqkT2r3iiaZx7EkA_qon5QKg)
+- [Preston Lamb](https://twitter.com/plambweb) - The JAMStack on Netlify - [Slides](https://pjlc.dev/ngconf-writers)
 
-**7:50 - 8:00** - [Chris Sevilleja](https://twitter.com/chrisoncode) - 10 Common Edits in Technical Writing - [Slides](https://slides.com/chrisoncode/10-common-technical-writing-edits)
+- [Chris Sevilleja](https://twitter.com/chrisoncode) - 10 Common Edits in Technical Writing - [Slides](https://slides.com/chrisoncode/10-common-technical-writing-edits)
 
 **8:00 - 8:15** - Q&A Time
 
